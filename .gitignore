@@ -1,0 +1,24 @@
+# Бинарные артефакты
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+SimpleRESTApi
+simple-api
+
+# Go зависимости и модули
+/vendor/
+/go.sum
+
+# Конфигурация
+.env
+.env.local
+
+# Логи
+*.log
+
+# IDE и системные файлы
+.DS_Store
+.idea/
+.vscode/
